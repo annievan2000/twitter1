@@ -1,8 +1,6 @@
-# Project 3 - *Name of App Here*
+# Twitter - Part I
 
-**Name of your app** is a basic twitter app to read your tweets.
-
-Time spent: **X** hours spent in total
+This is a basic twitter app to read your tweets.
 
 ## User Stories
 
@@ -14,7 +12,7 @@ The following **required** functionality is completed:
 - [ x] User stays logged in across restarts. (1pt)
 - [ x] User can view tweets with the user profile picture, username, and tweet text. (6pts)
 
-The following **bonus** features are implemented:
+More features include:
 
 - [x ] User can pull to refresh. (1pt)
 - [x ] User can load past tweets infinitely. (2pts)
